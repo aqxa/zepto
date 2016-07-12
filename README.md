@@ -116,7 +116,7 @@ Zepto modules are individual files in the "src/" directory.
   </tr>
   <tr>
     <th><a href="src/data.js#files">data</a></th>
-    <td></td>
+    <td>✔</td>
     <td>
       A full-blown <code>data()</code> method, capable of storing arbitrary
       objects in memory.
@@ -124,7 +124,7 @@ Zepto modules are individual files in the "src/" directory.
   </tr>
   <tr>
     <th><a href="src/deferred.js#files">deferred</a></th>
-    <td></td>
+    <td>✔</td>
     <td>
       Provides <code>$.Deferred</code> promises API.
       Depends on the "callbacks" module.
@@ -132,14 +132,14 @@ Zepto modules are individual files in the "src/" directory.
   </tr>
   <tr>
     <th><a href="src/callbacks.js#files">callbacks</a></th>
-    <td></td>
+    <td>✔</td>
     <td>
       Provides <code>$.Callbacks</code> for use in "deferred" module.
     </td>
   </tr>
   <tr>
     <th><a href="src/selector.js#files">selector</a></th>
-    <td></td>
+    <td>✔</td>
     <td>
       Experimental <a href="http://api.jquery.com/category/selectors/jquery-selector-extensions/">jQuery
       CSS extensions</a> support for functionality such as <code>$('div:first')</code> and
