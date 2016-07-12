@@ -8,7 +8,7 @@
     "dist": "coffee make dist",
     "start": "coffee test/server.coffee"
   },
-  "repository": "madrobby/zepto",
+  "repository": "aqxa/zepto",
   "license": {
     "type": "MIT",
     "url": "http://zeptojs.com/license/"
